@@ -6,7 +6,7 @@
     ],
     "homepage": "https://github.com/basz/BsbExposeGreensockJS",
     "require": {
-        "rwoverdijk/assetmanager": "1.*",
+        "rwoverdijk/assetmanager": "1.*"
     },
     "autoload" : {
         "psr-0": {
