@@ -1,0 +1,19 @@
+{
+    "name": "bushbaby/expose-greensock-js",
+    "description": "BsbExposeGreensockJS is a ZF2 module that helps exposing the greensock javascript library",
+    "license" : "MIT",
+    "keywords": [
+    ],
+    "homepage": "https://github.com/basz/BsbExposeGreensockJS",
+    "require": {
+        "rwoverdijk/assetmanager": "1.*",
+    },
+    "autoload" : {
+        "psr-0": {
+            "BsbFontAwesome": "src/"
+        },
+        "classmap": [
+            "./"
+        ]
+    }
+}
