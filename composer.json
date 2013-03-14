@@ -14,7 +14,7 @@
             "BsbExposeGreensockJS": "src/"
         },
         "classmap": [
-            "./"
+            "./Module.php"
         ]
     }
 }
