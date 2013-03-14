@@ -10,9 +10,9 @@ Update your composer.json in your project root to include the following snipped
 
 Additionally, since greensock js doesn't have a composer.json, add the following snipped to the composer.json in your project root.
 
-    "repositories": [
+    "repositories":
         {
-            "greensockjs-unofficial": {
+            "bushbaby-greensockjs": {
                 "type": "package",
                 "package": {
                     "name": "bushbaby/greensockjs",
@@ -25,7 +25,6 @@ Additionally, since greensock js doesn't have a composer.json, add the following
                 }
             }
         },
-    ]
 
 
 
