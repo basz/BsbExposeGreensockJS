@@ -10,9 +10,6 @@
         "bushbaby/greensockjs": "*"
     },
     "autoload" : {
-        "psr-0": {
-            "BsbExposeGreensockJS": "src/"
-        },
         "classmap": [
             "./Module.php"
         ]
